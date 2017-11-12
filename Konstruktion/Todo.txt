@@ -1,2 +1,3 @@
  - Blecheinsatz Links fehlt
  - Blecheinsatz Rechts fehlt
+ - Gasanschluss Maße überprüfen
